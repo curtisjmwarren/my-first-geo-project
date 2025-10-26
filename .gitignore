@@ -1,0 +1,50 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Environment and dependency files
+.env
+*.sqlite3
+*.db
+*.log
+*.bak
+*.tmp
+
+# Geospatial data formats
+*.tif
+*.tiff
+*.shp
+*.shx
+*.dbf
+*.prj
+*.geojson
+*.kml
+*.kmz
+*.gpx
+*.las
+*.laz
+*.gpkg
+*.vrt
+*.xml
+
+# Jupyter and notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# VS Code settings
+.vscode/
+*.code-workspace
+
+# Conda environments
+*.conda
+*.yaml
+*.yml
+
+# OS-specific
+.DS_Store
+Thumbs.db
